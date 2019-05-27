@@ -19,7 +19,7 @@
       <guid>https://vamsii.com/posts/elixir-mix-aliases/</guid>
       <description>There are some cases where you run a sequence of mix tasks one after another.
 Here&amp;rsquo;s an example:
-mix ecto.create mix ecto.migrate mix run priv/repo/seeds.exs he above commands create the database, run all your migrations and load the fixtures for you respectively.
+mix ecto.create mix ecto.migrate mix run priv/repo/seeds.exs The above commands create the database, run all your migrations and load the fixtures for you respectively.
 Wouldn&amp;rsquo;t it be easier to just run one command and in turn that wraps all the three mix tasks into a single command?
 Enter mix Aliases.
 from the official docs:</description>
