@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vamsii.com/posts/elixir-mix-aliases/</loc>
+    <lastmod>2019-05-26T14:35:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vamsii.com/posts/</loc>
+    <lastmod>2019-05-26T14:35:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vamsii.com/</loc>
+    <lastmod>2019-05-26T14:35:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vamsii.com/posts/hello-world/</loc>
+    <lastmod>2019-05-25T14:35:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vamsii.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vamsii.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

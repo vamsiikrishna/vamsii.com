@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vamsi Krishna B</title>
+    <link>https://vamsii.com/posts/</link>
+    <description>Recent content in Posts on Vamsi Krishna B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 May 2019 14:35:23 +0530</lastBuildDate>
+    
+	<atom:link href="https://vamsii.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elixir - Mix Aliases to simpify your Ecto workflow</title>
+      <link>https://vamsii.com/posts/elixir-mix-aliases/</link>
+      <pubDate>Sun, 26 May 2019 14:35:23 +0530</pubDate>
+      
+      <guid>https://vamsii.com/posts/elixir-mix-aliases/</guid>
+      <description>There are some cases where you run a sequence of mix tasks one after another.
+Here&amp;rsquo;s an example:
+mix ecto.create mix ecto.migrate mix run priv/repo/seeds.exs he above commands create the database, run all your migrations and load the fixtures for you respectively.
+Wouldn&amp;rsquo;t it be easier to just run one command and in turn that wraps all the three mix tasks into a single command?
+Enter mix Aliases.
+from the official docs:</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://vamsii.com/posts/hello-world/</link>
+      <pubDate>Sat, 25 May 2019 14:35:23 +0530</pubDate>
+      
+      <guid>https://vamsii.com/posts/hello-world/</guid>
+      <description>Hello, World! again!
+This is not the first time I have written this post. I have created the same post at least 4 or 5 times. After many attempts at creating and maintaining a blog, here I am again creating yet another hello world post!
+What&amp;rsquo;s new this time?
+All the previous instances, I have either used a CMS like WordPress or I have used something that I built from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>
